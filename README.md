@@ -23,7 +23,7 @@ Project aims to create survey form within html and css.
         |----result.html 
 ```
 
-##Project-gif
+## Project-gif
  
 ![Animation](https://user-images.githubusercontent.com/72518776/227383539-1b892ac4-87fc-4c72-88b5-279dba001c7b.gif)
 
