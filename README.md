@@ -1,4 +1,4 @@
-# Project-001: Survey Form Disney Plus
+# Project-001: Survey Form Netflix
 
 ## Description
 Project aims to create survey form within html and css.
